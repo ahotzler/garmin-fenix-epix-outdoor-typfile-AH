@@ -1,7 +1,4 @@
-; ahotzler.typ
-; Longueur: 38653 octets
-; Fichier TYP compilé     12.04.2020     13:56:05
-; Décompilé le 12.04.2020 à 14:02:12
+
 
 [_id]
 ProductCode=1
@@ -2732,7 +2729,7 @@ Type=0x22
 UseOrientation=Y
 LineWidth=2
 Xpm="0 0 1 0"
-"1 c #C0C0C0"
+"1 c #838383"
 String1=0x00,Major Contour Line
 String2=0x02,Höhenlinie major (breit)
 String3=0x03,Hoogtelijn groot

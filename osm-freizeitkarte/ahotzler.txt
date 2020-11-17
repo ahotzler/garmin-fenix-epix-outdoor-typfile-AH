@@ -1,7 +1,7 @@
-; ahotzler.typ
-; Longueur: 38653 octets
-; Fichier TYP compilé     25.04.2020     13:51:44
-; Décompilé le 25.04.2020 à 13:53:52
+; ahotzler_2020-11-17.typ
+; Longueur: 38695 octets
+; Fichier TYP compilé     17.11.2020     11:17:47
+; Décompilé le 17.11.2020 à 11:22:12
 
 [_id]
 ProductCode=1
@@ -29,13 +29,13 @@ Type=0x00c,4
 Type=0x010,4
 Type=0x012,4
 Type=0x018,4
-Type=0x01e,4
 Type=0x023,4
 Type=0x024,4
 Type=0x026,4
 Type=0x040,4
 Type=0x015,5
 Type=0x01b,5
+Type=0x01e,5
 Type=0x022,5
 Type=0x02a,5
 Type=0x02b,5
@@ -691,7 +691,7 @@ ExtendedLabels=Y
 FontStyle=NoLabel (invisible)
 CustomColor=No
 Xpm="0 0 1 0"
-"1 c #53CF28"
+"1 c #4ED060"
 [end]
 
 
@@ -755,7 +755,7 @@ ExtendedLabels=Y
 FontStyle=NoLabel (invisible)
 CustomColor=No
 Xpm="0 0 1 0"
-"1 c #84BC39"
+"1 c #CFECA8"
 [end]
 
 
@@ -1643,7 +1643,7 @@ ExtendedLabels=Y
 FontStyle=NoLabel (invisible)
 CustomColor=No
 Xpm="0 0 1 0"
-"1 c #3B347B"
+"1 c #4D8EF0"
 [end]
 
 
@@ -2072,7 +2072,7 @@ ExtendedLabels=Y
 FontStyle=NoLabel (invisible)
 CustomColor=No
 Xpm="0 0 1 0"
-"1 c #429E10"
+"1 c #2AA853"
 [end]
 
 
@@ -2136,7 +2136,7 @@ ExtendedLabels=Y
 FontStyle=NoLabel (invisible)
 CustomColor=No
 Xpm="0 0 1 0"
-"1 c #46BF1C"
+"1 c #32D360"
 [end]
 
 
@@ -2697,7 +2697,7 @@ Type=0x20
 UseOrientation=Y
 LineWidth=1
 Xpm="0 0 1 0"
-"1 c #838383"
+"1 c #C0C0C0"
 String1=0x00,Minor Contour Line
 String2=0x02,Höhenlinie minor
 String3=0x03,Hoogtelijn klein
@@ -2714,7 +2714,7 @@ Type=0x21
 UseOrientation=Y
 LineWidth=1
 Xpm="0 0 1 0"
-"1 c #838383"
+"1 c #C0C0C0"
 String1=0x00,Medium Contour Line
 String2=0x02,Höhenlinie medium (breit)
 String3=0x03,Hoogtelijn middel
@@ -2732,7 +2732,7 @@ Type=0x22
 UseOrientation=Y
 LineWidth=2
 Xpm="0 0 1 0"
-"1 c #838383"
+"1 c #C0C0C0"
 String1=0x00,Major Contour Line
 String2=0x02,Höhenlinie major (breit)
 String3=0x03,Hoogtelijn groot
@@ -8433,26 +8433,27 @@ String2=0x02,Berghütte (bewirtschaftet)
 String3=0x03,Berghut (horecabedrijf)
 String4=0x04,Alpine Hut (operated/manned)
 ExtendedLabels=Y
-FontStyle=NormalFont
+FontStyle=Default
 CustomColor=DayAndNight
 DaycustomColor:#BD0041
 NightcustomColor:#BD0041
-DayXpm="11 12 3 1"   Colormode=16
-"!	c #FF656A"
-"#	c #333333"
+DayXpm="11 12 4 1"   Colormode=16
+"!	c #000000"
+"#	c #FF656A"
+"%	c #333333"
 "  	c none"
-"     #     "
-"    ###    "
-"   ##!##   "
-"  ##!!!##  "
-" ##!!!!!## "
-"###########"
-" #!!!!!!!# "
-" #!!!!!!!# "
-" #!!!!!!!# "
-" #!!!!!!!# "
-" #!!!!!!!# "
-"###########"
+"     %     "
+"    %%%    "
+"   %%#%%   "
+"  %%###%%  "
+" %%#####%% "
+"%%%%%%%%%%%"
+" %#######% "
+" %#######% "
+" %#######% "
+" %#######% "
+" %#######% "
+"%%%%%%%%%%%"
 ;12345678901
 [end]
 
@@ -8466,7 +8467,7 @@ String2=0x02,Berghütte (Selbstversorger)
 String3=0x03,Berghut (zelfverzorging)
 String4=0x04,Alpine Hut (self-catering)
 ExtendedLabels=Y
-FontStyle=NormalFont
+FontStyle=Default
 CustomColor=DayAndNight
 DaycustomColor:#BD0041
 NightcustomColor:#BD0041
@@ -8500,22 +8501,23 @@ String2=0x02,Basic hut
 String3=0x03,Eenvoudige hut
 String4=0x04,Basic Hut
 ExtendedLabels=Y
-FontStyle=NormalFont
+FontStyle=Default
 CustomColor=DayAndNight
 DaycustomColor:#BD0041
 NightcustomColor:#BD0041
-DayXpm="10 8 3 1"   Colormode=16
-"!	c #333333"
-"#	c #FFFFFF"
+DayXpm="10 8 4 1"   Colormode=16
+"!	c #000000"
+"#	c #333333"
+"%	c #FFFFFF"
 "  	c none"
-"  !!!!!!  "
-" !!!!!!!! "
-"!!!!!!!!!!"
-" !######! "
-" !######! "
-" !######! "
-" !######! "
-"!!!!!!!!!!"
+"  ######  "
+" ######## "
+"##########"
+" #%%%%%%# "
+" #%%%%%%# "
+" #%%%%%%# "
+" #%%%%%%# "
+"##########"
 ;1234567890
 [end]
 
@@ -8529,26 +8531,27 @@ String2=0x02,Wilderness hut
 String3=0x03,Hut
 String4=0x04,Wilderness hut
 ExtendedLabels=Y
-FontStyle=NormalFont
+FontStyle=Default
 CustomColor=DayAndNight
 DaycustomColor:#BD0041
 NightcustomColor:#BD0041
-DayXpm="11 12 3 1"   Colormode=16
-"!	c #333333"
-"#	c #FFFFFF"
+DayXpm="11 12 4 1"   Colormode=16
+"!	c #000000"
+"#	c #333333"
+"%	c #FFFFFF"
 "  	c none"
-"     !     "
-"    !!!    "
-"   !!#!!   "
-"  !!###!!  "
-" !!#####!! "
-"!!!!!!!!!!!"
-" !#######! "
-" !#######! "
-" !#######! "
-" !#######! "
-" !#######! "
-"!!!!!!!!!!!"
+"     #     "
+"    ###    "
+"   ##%##   "
+"  ##%%%##  "
+" ##%%%%%## "
+"###########"
+" #%%%%%%%# "
+" #%%%%%%%# "
+" #%%%%%%%# "
+" #%%%%%%%# "
+" #%%%%%%%# "
+"###########"
 ;12345678901
 [end]
 
@@ -9013,10 +9016,8 @@ String2=0x02,See / Teich
 String3=0x03,Plas / Meer
 String4=0x04,Lake / Pond
 ExtendedLabels=Y
-FontStyle=NormalFont
-CustomColor=DayAndNight
-DaycustomColor:#040126
-NightcustomColor:#040126
+FontStyle=NoLabel (invisible)
+CustomColor=No
 DayXpm="3 3 2 1"   Colormode=16
 "!	c #FF0000"
 "  	c none"
@@ -9357,29 +9358,18 @@ String1=0x00,Summit/Peak
 String2=0x02,Gipfel
 String3=0x03,Bergtop
 String4=0x04,Summit/Peak
-ExtendedLabels=Y
-FontStyle=NormalFont
-CustomColor=DayAndNight
-DaycustomColor:#4C1603
-NightcustomColor:#4C1603
-DayXpm="15 14 2 1"   Colormode=16
-"!	c #7B3000"
+ExtendedLabels=N
+DayXpm="8 7 2 1"   Colormode=16
+"!	c #D08F55"
 "  	c none"
-"       !       "
-"      !!!      "
-"      !!!      "
-"     !!!!!     "
-"     !!!!!     "
-"    !!!!!!!    "
-"    !!!!!!!    "
-"   !!!!!!!!!   "
-"   !!!!!!!!!   "
-"  !!!!!!!!!!!  "
-"  !!!!!!!!!!!  "
-" !!!!!!!!!!!!! "
-" !!!!!!!!!!!!! "
-"!!!!!!!!!!!!!!!"
-;123456789012345
+"   !!   "
+"   !!   "
+"  !!!!  "
+"  !!!!  "
+" !!!!!! "
+" !!!!!! "
+"!!!!!!!!"
+;12345678
 [end]
 
 

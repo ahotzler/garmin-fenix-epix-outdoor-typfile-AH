@@ -1,7 +1,4 @@
-; ahotzler.typ
-; Longueur:  octets
-; Fichier TYP compilé     04.01.2021     22:04:57
-; Décompilé le 04.01.2021 à 22:05:40
+
 
 [_id]
 ProductCode=1
@@ -3523,7 +3520,7 @@ Type=0x10e0f
 UseOrientation=Y
 LineWidth=1
 Xpm="0 0 1 0"
-"1 c #C04C50"
+"1 c #7B0000"
 String1=0x00,dirt road (restricted)
 String2=0x02,Feldweg (Eingeschränkt)
 String3=0x03,Zandweg (afgesloten)
@@ -3556,7 +3553,7 @@ Type=0x10e11
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_18/Non-routable customizable line/Non NT, NT
 UseOrientation=Y
 Xpm="32 2 2  1"
-"! c #C04C50"
+"! c #7B0000"
 "  c none"
 "!!!!!   !!!!!   !!!!!   !!!!!   "
 "!!!!!   !!!!!   !!!!!   !!!!!   "
@@ -3576,7 +3573,7 @@ Type=0x10e12
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_19/Non-routable customizable line/Non NT, NT
 UseOrientation=Y
 Xpm="32 2 2  1"
-"! c #C04C50"
+"! c #7B0000"
 "  c none"
 "  !!  !!  !!  !!  !!  !!  !!  !!"
 "                                "
@@ -3650,7 +3647,7 @@ Type=0x10e16
 UseOrientation=Y
 LineWidth=1
 Xpm="0 0 1 0"
-"1 c #CC5155"
+"1 c #7B3000"
 String1=0x00,Track/Dirt Road n.a/2/3 (restricted)
 String2=0x02,Feld-/Waldweg -/2/3 (Eingeschränkt)
 String3=0x03,Onverharde weg n.a/2/3 (afgesloten)
@@ -3666,7 +3663,7 @@ Type=0x10e17
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_24/Non-routable customizable line/Non NT, NT
 UseOrientation=Y
 Xpm="32 2 2  1"
-"! c #CC5155"
+"! c #7B3000"
 "  c none"
 "!!!!!!!!!!!!    !!!!!!!!!!!!    "
 "!!!!!!!!!!!!    !!!!!!!!!!!!    "
@@ -3789,7 +3786,7 @@ Type=0x10e1e
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_31/Non-routable customizable line/Non NT, NT
 UseOrientation=Y
 Xpm="32 2 2  1"
-"! c #BA4A4E"
+"! c #7B3000"
 "  c none"
 "!!!!!   !!!!!   !!!!!   !!!!!   "
 "                                "

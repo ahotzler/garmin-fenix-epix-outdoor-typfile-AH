@@ -1,7 +1,7 @@
 ; ahepix.typ
-; Longueur:  octets
-; Fichier TYP compilé     22.01.2022     20:53:46
-; Décompilé le 22.01.2022 à 20:55:43
+; Longueur: 39458 octets
+; Fichier TYP compilé     22.01.2022     21:30:27
+; Décompilé le 22.01.2022 à 21:30:54
 
 [_id]
 ProductCode=1
@@ -691,7 +691,7 @@ ExtendedLabels=Y
 FontStyle=NoLabel (invisible)
 CustomColor=No
 Xpm="0 0 1 0"
-"1 c #A0C100"
+"1 c #7ECF00"
 [end]
 
 
@@ -2026,7 +2026,7 @@ ExtendedLabels=Y
 FontStyle=NoLabel (invisible)
 CustomColor=No
 Xpm="32 32 2 1"
-"! c #85A146"
+"! c #7ED021"
 "# c #8DEE28"
 "!!!####!!!!########!!!!###!!##!!"
 "!!!####!!!!!#######!!!!###!!##!!"
@@ -2075,7 +2075,7 @@ ExtendedLabels=Y
 FontStyle=NoLabel (invisible)
 CustomColor=No
 Xpm="0 0 1 0"
-"1 c #2FBB5C"
+"1 c #2CAE56"
 [end]
 
 
@@ -2139,7 +2139,7 @@ ExtendedLabels=Y
 FontStyle=NoLabel (invisible)
 CustomColor=No
 Xpm="0 0 1 0"
-"1 c #94B350"
+"1 c #7ED021"
 [end]
 
 
@@ -9610,25 +9610,17 @@ String4=0x04,Summit/Peak
 ExtendedLabels=Y
 FontStyle=NormalFont
 CustomColor=No
-DayXpm="15 15 2 1"   Colormode=16
+DayXpm="8 7 2 1"   Colormode=16
 "!	c #7B3000"
 "  	c none"
-"       !       "
-"       !       "
-"      !!!      "
-"      !!!      "
-"     !!!!!     "
-"     !!!!!     "
-"    !!!!!!!    "
-"    !!!!!!!    "
-"   !!!!!!!!!   "
-"   !!!!!!!!!   "
-"  !!!!!!!!!!!  "
-"  !!!!!!!!!!!  "
-" !!!!!!!!!!!!! "
-" !!!!!!!!!!!!! "
-"!!!!!!!!!!!!!!!"
-;123456789012345
+"   !!   "
+"   !!   "
+"  !!!!  "
+"  !!!!  "
+" !!!!!! "
+" !!!!!! "
+"!!!!!!!!"
+;12345678
 [end]
 
 

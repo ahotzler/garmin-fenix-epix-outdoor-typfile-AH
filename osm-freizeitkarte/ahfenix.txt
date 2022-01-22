@@ -112,7 +112,7 @@ Xpm="0 0 1 0"
 Type=0x04
 ;GRMN_TYPE: Large Manmade Areas/MILITARY_BASE/Military base area/Non NT
 String1=0x00,Military Area
-String2=0x02,Milit‰rgebiet
+String2=0x02,Milit√§rgebiet
 String3=0x03,Militair gebied
 String4=0x04,Military Area
 ExtendedLabels=Y
@@ -617,7 +617,7 @@ Xpm="32 32 2 1"
 Type=0x13
 ;GRMN_TYPE: Large Manmade Areas/GENERIC_MANMADE/Other or generic manmade area, such as a building/Non NT
 String1=0x00,Building
-String2=0x02,Geb‰ude
+String2=0x02,Geb√§ude
 String3=0x03,Gebouw
 String4=0x04,Building
 ExtendedLabels=Y
@@ -1016,7 +1016,7 @@ Xpm="32 32 2 1"
 Type=0x23
 ;GRMN_TYPE: //
 String1=0x00,Allotments
-String2=0x02,Kleing‰rten
+String2=0x02,Kleing√§rten
 String3=0x03,Volkstuinen
 String4=0x04,Allotments
 ExtendedLabels=Y
@@ -1464,7 +1464,7 @@ Xpm="0 0 1 0"
 Type=0x33
 ;GRMN_TYPE: //
 String1=0x00,Pedestrian Area
-String2=0x02,Fuﬂg‰ngerzone
+String2=0x02,Fu√üg√§ngerzone
 String3=0x03,Voetgangersgebied
 String4=0x04,Pedestrian Area
 ExtendedLabels=Y
@@ -1528,7 +1528,7 @@ Xpm="0 0 1 0"
 Type=0x36
 ;GRMN_TYPE: //
 String1=0x00,Place of Worship
-String2=0x02,Andachtsst‰tte
+String2=0x02,Andachtsst√§tte
 String3=0x03,Gebedshuis
 String4=0x04,Place of Worship
 ExtendedLabels=Y
@@ -1742,7 +1742,7 @@ Xpm="0 0 1 0"
 Type=0x43
 ;GRMN_TYPE: Water Areas/LAKE_500MI/Lake less than 1000 sq mi but greater or equal to 500 sq mi  in area/Non NT
 String1=0x00,Scree
-String2=0x02,Gerˆll
+String2=0x02,Ger√∂ll
 String3=0x03,Steenslag
 String4=0x04,Scree
 ExtendedLabels=Y
@@ -1791,7 +1791,7 @@ Xpm="32 32 2 1"
 Type=0x44
 ;GRMN_TYPE: Water Areas/LAKE_250MI/Lake less than 500 sq mi but greater or equal to 250 sq mi in area/Non NT
 String1=0x00,Service Area
-String2=0x02,Rastst‰tte
+String2=0x02,Rastst√§tte
 String3=0x03,Verzorgingsplaats
 String4=0x04,Service Area
 ExtendedLabels=Y
@@ -2013,7 +2013,7 @@ Xpm="32 32 2 1"
 Type=0x4f
 ;GRMN_TYPE: Surface Cover Areas/SCRUB/Scrub brush area/Non NT
 String1=0x00,Brush/Scrub
-String2=0x02,Unterholz, Geb¸sch
+String2=0x02,Unterholz, Geb√ºsch
 String3=0x03,Struikgewas
 String4=0x04,Brush/Scrub
 ExtendedLabels=Y
@@ -2267,7 +2267,7 @@ Xpm="32 2 2  1"
 "                                "
 ;12345678901234567890123456789012
 String1=0x00,[Highway]
-String2=0x02,[Bundesstraﬂe]
+String2=0x02,[Bundesstra√üe]
 String3=0x03,[Snelweg]
 String4=0x04,[Highway]
 ExtendedLabels=N
@@ -2285,7 +2285,7 @@ Xpm="32 2 2  1"
 "                                "
 ;12345678901234567890123456789012
 String1=0x00,[Highway]
-String2=0x02,[Bundesstraﬂe]
+String2=0x02,[Bundesstra√üe]
 String3=0x03,[Snelweg]
 String4=0x04,[Highway]
 ExtendedLabels=N
@@ -2303,7 +2303,7 @@ Xpm="32 2 2  1"
 "                                "
 ;12345678901234567890123456789012
 String1=0x00,[Secondary Road]
-String2=0x02,[Landesstraﬂe]
+String2=0x02,[Landesstra√üe]
 String3=0x03,[Provinciale weg]**
 String4=0x04,[Secondary Road]
 ExtendedLabels=N
@@ -2321,7 +2321,7 @@ Xpm="32 2 2  1"
 "                                "
 ;12345678901234567890123456789012
 String1=0x00,[Country Road]
-String2=0x02,[Kreisstraﬂe]
+String2=0x02,[Kreisstra√üe]
 String3=0x03,[Doorgaande weg]
 String4=0x04,[Country Road]
 ExtendedLabels=N
@@ -2339,7 +2339,7 @@ Xpm="32 2 2  1"
 "                                "
 ;12345678901234567890123456789012
 String1=0x00,[Residential street]
-String2=0x02,[Wohngebietsstraﬂe]
+String2=0x02,[Wohngebietsstra√üe]
 String3=0x03,[Woonwijk]
 String4=0x04,[Residential street]
 ExtendedLabels=N
@@ -2357,7 +2357,7 @@ Xpm="32 2 2  1"
 "                                "
 ;12345678901234567890123456789012
 String1=0x00,[Unclassified Road]
-String2=0x02,[Nebenstraﬂe]
+String2=0x02,[Nebenstra√üe]
 String3=0x03,[Unclassified Road]
 String4=0x04,[Unclassified Road]
 ExtendedLabels=N
@@ -2375,7 +2375,7 @@ Xpm="32 2 2  1"
 "                                "
 ;12345678901234567890123456789012
 String1=0x00,[Service Road]
-String2=0x02,[Erschlieﬂungsstraﬂe]
+String2=0x02,[Erschlie√üungsstra√üe]
 String3=0x03,[Ventweg]
 String4=0x04,[Service Road]
 ExtendedLabels=N
@@ -2393,7 +2393,7 @@ Xpm="32 2 2  1"
 "                                "
 ;12345678901234567890123456789012
 String1=0x00,[Living Street]
-String2=0x02,[Spielstraﬂe]
+String2=0x02,[Spielstra√üe]
 String3=0x03,[Woonwijk]
 String4=0x04,[Living Street]
 ExtendedLabels=N
@@ -2467,7 +2467,7 @@ Xpm="32 2 2  1"
 "                                "
 ;12345678901234567890123456789012
 String1=0x00,[Pedestrian Only]
-String2=0x02,[Fuﬂg‰ngerstraﬂe]
+String2=0x02,[Fu√üg√§ngerstra√üe]
 String3=0x03,[Voetpad]
 String4=0x04,[Pedestrian Only]
 ExtendedLabels=N
@@ -2567,7 +2567,7 @@ Xpm="32 4 2  1"
 "!      !       !       !        "
 ;12345678901234567890123456789012
 String1=0x00,Tram & Cable Car
-String2=0x02,Straﬂenbahn
+String2=0x02,Stra√üenbahn
 String3=0x03,Tram & Kabelwagen
 String4=0x04,Tram & Cable Car
 ExtendedLabels=Y
@@ -2587,7 +2587,7 @@ Xpm="32 2 2  1"
 "                                "
 ;12345678901234567890123456789012
 String1=0x00,[Footpath]
-String2=0x02,[Fuﬂweg]
+String2=0x02,[Fu√üweg]
 String3=0x03,[Voetpad]
 String4=0x04,[Footpath]
 ExtendedLabels=Y
@@ -2624,7 +2624,7 @@ Xpm="32 2 2  1"
 "################################"
 ;12345678901234567890123456789012
 String1=0x00,[Ferry]
-String2=0x02,[F‰hre]
+String2=0x02,[F√§hre]
 String3=0x03,[Veerpont]
 String4=0x04,[Ferry]
 ExtendedLabels=Y
@@ -2696,7 +2696,7 @@ LineWidth=1
 Xpm="0 0 1 0"
 "1 c #C0C0C0"
 String1=0x00,Minor Contour Line
-String2=0x02,Hˆhenlinie minor
+String2=0x02,H√∂henlinie minor
 String3=0x03,Hoogtelijn klein
 String4=0x04,Minor Contour Line
 ExtendedLabels=Y
@@ -2713,7 +2713,7 @@ LineWidth=1
 Xpm="0 0 1 0"
 "1 c #C0C0C0"
 String1=0x00,Medium Contour Line
-String2=0x02,Hˆhenlinie medium (breit)
+String2=0x02,H√∂henlinie medium (breit)
 String3=0x03,Hoogtelijn middel
 String4=0x04,Medium Contour Line
 ExtendedLabels=Y
@@ -2731,7 +2731,7 @@ LineWidth=2
 Xpm="0 0 1 0"
 "1 c #C0C0C0"
 String1=0x00,Major Contour Line
-String2=0x02,Hˆhenlinie major (breit)
+String2=0x02,H√∂henlinie major (breit)
 String3=0x03,Hoogtelijn groot
 String4=0x04,Major Contour Line
 ExtendedLabels=Y
@@ -2894,7 +2894,7 @@ Xpm="0 0 2 0"
 "1 c #FFCFCF"
 "2 c #404040"
 String1=0x00,Residential Street (restricted)
-String2=0x02,Wohngebietsstraﬂe (Eingeschr‰nkt)
+String2=0x02,Wohngebietsstra√üe (Eingeschr√§nkt)
 String3=0x03,Woonwijk (afgesloten)
 String4=0x04,Residential Street (restricted)
 ExtendedLabels=Y
@@ -2913,7 +2913,7 @@ Xpm="0 0 2 0"
 "1 c #FEFEFE"
 "2 c #404040"
 String1=0x00,Unclassified Road (Narrow)
-String2=0x02,Nebenstraﬂe
+String2=0x02,Nebenstra√üe
 String3=0x03,Landweg (smal)
 String4=0x04,Unclassified Road (Narrow)
 ExtendedLabels=Y
@@ -2932,7 +2932,7 @@ Xpm="0 0 2 0"
 "1 c #FEFEFE"
 "2 c #404040"
 String1=0x00,Service Road
-String2=0x02,Erschlieﬂungsstraﬂe
+String2=0x02,Erschlie√üungsstra√üe
 String3=0x03,Ventweg
 String4=0x04,Service Road
 ExtendedLabels=Y
@@ -2951,7 +2951,7 @@ Xpm="0 0 2 0"
 "1 c #F6D4D4"
 "2 c #FFFFFF"
 String1=0x00,Living Street (restricted) narrow
-String2=0x02,Spielstraﬂe (Eingeschr‰nkt)
+String2=0x02,Spielstra√üe (Eingeschr√§nkt)
 String3=0x03,Woonerf
 String4=0x04,Living Street (restricted) narrow
 ExtendedLabels=Y
@@ -3034,7 +3034,7 @@ Xpm="32 8 2  1"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 ;12345678901234567890123456789012
 String1=0x00,Bridge
-String2=0x02,Br¸cke
+String2=0x02,Br√ºcke
 String3=0x03,Brug
 String4=0x04,Bridge
 ExtendedLabels=Y
@@ -3084,7 +3084,7 @@ Xpm="32 6 2  1"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 ;12345678901234567890123456789012
 String1=0x00,Bridge
-String2=0x02,Br¸cke
+String2=0x02,Br√ºcke
 String3=0x03,Brug
 String4=0x04,Bridge
 ExtendedLabels=Y
@@ -3138,7 +3138,7 @@ Xpm="32 12 2  1"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 ;12345678901234567890123456789012
 String1=0x00,Bridge
-String2=0x02,Br¸cke
+String2=0x02,Br√ºcke
 String3=0x03,Brug
 String4=0x04,Bridge
 ExtendedLabels=Y
@@ -3196,7 +3196,7 @@ Xpm="32 10 2  1"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 ;12345678901234567890123456789012
 String1=0x00,Bridge
-String2=0x02,Br¸cke
+String2=0x02,Br√ºcke
 String3=0x03,Brug
 String4=0x04,Bridge
 ExtendedLabels=Y
@@ -3260,7 +3260,7 @@ Xpm="0 0 2 0"
 "1 c #DDDDDD"
 "2 c #404040"
 String1=0x00,Unknown Street
-String2=0x02,Straﬂe unbekannter Art
+String2=0x02,Stra√üe unbekannter Art
 String3=0x03,Onbekende straat
 String4=0x04,Unknown Street
 ExtendedLabels=Y
@@ -3279,7 +3279,7 @@ Xpm="0 0 2 0"
 "1 c #F6D4D4"
 "2 c #404040"
 String1=0x00,Unknown Street (restricted)
-String2=0x02,Straﬂe unbekannter Art (Eingeschr‰nkt)
+String2=0x02,Stra√üe unbekannter Art (Eingeschr√§nkt)
 String3=0x03,Onbekende straat (afgesloten)
 String4=0x04,Unknown Street (restricted)
 ExtendedLabels=Y
@@ -3319,7 +3319,7 @@ Xpm="32 2 2  1"
 "!!!!####!!!!####!!!!####!!!!####"
 ;12345678901234567890123456789012
 String1=0x00,Road (under construction)
-String2=0x02,Straﬂenbaustelle
+String2=0x02,Stra√üenbaustelle
 String3=0x03,Wegaanleg
 String4=0x04,Road (under construction)
 ExtendedLabels=Y
@@ -3336,7 +3336,7 @@ LineWidth=1
 Xpm="0 0 1 0"
 "1 c #702020"
 String1=0x00,Footpath
-String2=0x02,Fuﬂweg
+String2=0x02,Fu√üweg
 String3=0x03,Voetpad
 String4=0x04,Footpath
 ExtendedLabels=Y
@@ -3447,7 +3447,7 @@ Xpm="0 0 2 0"
 "1 c #F8CC00"
 "2 c #404040"
 String1=0x00,Highway
-String2=0x02,Bundesstraﬂe
+String2=0x02,Bundesstra√üe
 String3=0x03,Autoweg smal
 String4=0x04,Highway
 ExtendedLabels=Y
@@ -3486,7 +3486,7 @@ Xpm="0 0 2 0"
 "1 c #F8FC00"
 "2 c #404040"
 String1=0x00,Secondary Road
-String2=0x02,Landesstraﬂe
+String2=0x02,Landesstra√üe
 String3=0x03,Provinciale weg
 String4=0x04,Secondary Road
 ExtendedLabels=Y
@@ -3505,7 +3505,7 @@ Xpm="0 0 2 0"
 "1 c #FFFFD5"
 "2 c #404040"
 String1=0x00,Country Road
-String2=0x02,Kreisstraﬂe
+String2=0x02,Kreisstra√üe
 String3=0x03,Landweg
 String4=0x04,Country Road
 ExtendedLabels=Y
@@ -3522,7 +3522,7 @@ LineWidth=1
 Xpm="0 0 1 0"
 "1 c #7B0000"
 String1=0x00,dirt road (restricted)
-String2=0x02,Feldweg (Eingeschr‰nkt)
+String2=0x02,Feldweg (Eingeschr√§nkt)
 String3=0x03,Zandweg (afgesloten)
 String4=0x04,dirt road (restricted)
 ExtendedLabels=Y
@@ -3539,7 +3539,7 @@ LineWidth=1
 Xpm="0 0 1 0"
 "1 c #000078"
 String1=0x00,Cycle-/Footway narrow
-String2=0x02,Rad-/Fuﬂweg
+String2=0x02,Rad-/Fu√üweg
 String3=0x03,Fietspad/Voetpad nauw
 String4=0x04,Cycle-/Footway narrow
 ExtendedLabels=Y
@@ -3559,7 +3559,7 @@ Xpm="32 2 2  1"
 "!!!!!   !!!!!   !!!!!   !!!!!   "
 ;12345678901234567890123456789012
 String1=0x00,Path (restricted)
-String2=0x02,Schmaler Weg/Pfad (Eingeschr‰nkt)
+String2=0x02,Schmaler Weg/Pfad (Eingeschr√§nkt)
 String3=0x03,Pad (afgesloten)
 String4=0x04,Path (restricted)
 ExtendedLabels=Y
@@ -3579,7 +3579,7 @@ Xpm="32 2 2  1"
 "                                "
 ;12345678901234567890123456789012
 String1=0x00,Path (restricted)
-String2=0x02,Schmaler Weg/Pfad (Eingeschr‰nkt)
+String2=0x02,Schmaler Weg/Pfad (Eingeschr√§nkt)
 String3=0x03,Pad (afgesloten)
 String4=0x04,Path (restricted)
 ExtendedLabels=Y
@@ -3598,7 +3598,7 @@ Xpm="0 0 2 0"
 "1 c #F0F0F0"
 "2 c #CC5155"
 String1=0x00,Track/Dirt Road 1 (restricted)
-String2=0x02,Feld-/Waldweg 1 (Eingeschr‰nkt)
+String2=0x02,Feld-/Waldweg 1 (Eingeschr√§nkt)
 String3=0x03,Onverharde weg 1 (afgesloten)
 String4=0x04,Track/Dirt Road 1 (restricted)
 ExtendedLabels=Y
@@ -3615,7 +3615,7 @@ LineWidth=2
 Xpm="0 0 1 0"
 "1 c #CC5155"
 String1=0x00,Track/Dirt Road 1 (restricted)
-String2=0x02,Feld-/Waldweg 1 (Eingeschr‰nkt)
+String2=0x02,Feld-/Waldweg 1 (Eingeschr√§nkt)
 String3=0x03,Onverharde weg 1 (afgesloten)
 String4=0x04,Track/Dirt Road 1 (restricted)
 ExtendedLabels=Y
@@ -3632,7 +3632,7 @@ LineWidth=2
 Xpm="0 0 1 0"
 "1 c #FF656A"
 String1=0x00,Track/Dirt Road n.a/2/3 (restricted)
-String2=0x02,Feld-/Waldweg -/2/3 (Eingeschr‰nkt)
+String2=0x02,Feld-/Waldweg -/2/3 (Eingeschr√§nkt)
 String3=0x03,Onverharde weg n.a/2/3 (afgesloten)
 String4=0x04,Track/Dirt Road n.a/2/3 (restricted)
 ExtendedLabels=Y
@@ -3649,7 +3649,7 @@ LineWidth=1
 Xpm="0 0 1 0"
 "1 c #7B3000"
 String1=0x00,Track/Dirt Road n.a/2/3 (restricted)
-String2=0x02,Feld-/Waldweg -/2/3 (Eingeschr‰nkt)
+String2=0x02,Feld-/Waldweg -/2/3 (Eingeschr√§nkt)
 String3=0x03,Onverharde weg n.a/2/3 (afgesloten)
 String4=0x04,Track/Dirt Road n.a/2/3 (restricted)
 ExtendedLabels=Y
@@ -3669,7 +3669,7 @@ Xpm="32 2 2  1"
 "!!!!!!!!!!!!    !!!!!!!!!!!!    "
 ;12345678901234567890123456789012
 String1=0x00,Track/Dirt Road 4/5 (restricted)
-String2=0x02,Feld-/Waldweg 4/5 (Eingeschr‰nkt)
+String2=0x02,Feld-/Waldweg 4/5 (Eingeschr√§nkt)
 String3=0x03,Onverharde weg 4/5 (afgesloten)
 String4=0x04,Track/Dirt Road 4/5 (restricted)
 ExtendedLabels=Y
@@ -3792,7 +3792,7 @@ Xpm="32 2 2  1"
 "                                "
 ;12345678901234567890123456789012
 String1=0x00,Track/Dirt Road 4/5 (restricted)
-String2=0x02,Feld-/Waldweg 4/5 (Eingeschr‰nkt)
+String2=0x02,Feld-/Waldweg 4/5 (Eingeschr√§nkt)
 String3=0x03,Onverharde weg 4/5 (afgesloten)
 String4=0x04,Track/Dirt Road 4/5 (restricted)
 ExtendedLabels=Y
@@ -3904,7 +3904,7 @@ Xpm="0 0 2 0"
 "1 c #F6D4D4"
 "2 c #FFFFFF"
 String1=0x00,Living Street (restricted)
-String2=0x02,Verkehrsberuhigter Bereich (Eingeschr‰nkt)
+String2=0x02,Verkehrsberuhigter Bereich (Eingeschr√§nkt)
 String3=0x03,Woonerf (afgesloten)
 String4=0x04,Living Street (restricted)
 ExtendedLabels=Y
@@ -3923,7 +3923,7 @@ Xpm="0 0 2 0"
 "1 c #F6D4D4"
 "2 c #FFFFFF"
 String1=0x00,Living Street (restricted)
-String2=0x02,Verkehrsberuhigter Bereich (Eingeschr‰nkt)
+String2=0x02,Verkehrsberuhigter Bereich (Eingeschr√§nkt)
 String3=0x03,Woonerf (afgesloten)
 String4=0x04,Living Street (restricted)
 ExtendedLabels=Y
@@ -3962,7 +3962,7 @@ Xpm="0 0 2 0"
 "1 c #FFFFFF"
 "2 c #BABABA"
 String1=0x00,Pedestrianised Street
-String2=0x02,Fuﬂg‰ngerstraﬂe mittel
+String2=0x02,Fu√üg√§ngerstra√üe mittel
 String3=0x03,Voetgangersgebied
 String4=0x04,Pedestrianised Street
 ExtendedLabels=Y
@@ -3981,7 +3981,7 @@ Xpm="0 0 2 0"
 "1 c #FFFFFF"
 "2 c #BABABA"
 String1=0x00,Pedestrianised street
-String2=0x02,Fuﬂg‰ngerstraﬂe
+String2=0x02,Fu√üg√§ngerstra√üe
 String3=0x03,Voetgangersgebied
 String4=0x04,Pedestrianised street
 ExtendedLabels=Y
@@ -4038,7 +4038,7 @@ Xpm="0 0 2 0"
 "1 c #F8CC00"
 "2 c #404040"
 String1=0x00,Highway (like freeway)
-String2=0x02,Bundesstraﬂe (wie Autobahn)
+String2=0x02,Bundesstra√üe (wie Autobahn)
 String3=0x03,Autosnelweg
 String4=0x04,Highway (like freeway)
 ExtendedLabels=Y
@@ -4057,7 +4057,7 @@ Xpm="0 0 2 0"
 "1 c #F8CC00"
 "2 c #404040"
 String1=0x00,Highway (like freeway)
-String2=0x02,Bundesstraﬂe (wie Autobahn)
+String2=0x02,Bundesstra√üe (wie Autobahn)
 String3=0x03,Autosnelweg
 String4=0x04,Highway (like freeway)
 ExtendedLabels=Y
@@ -4076,7 +4076,7 @@ Xpm="0 0 2 0"
 "1 c #F8CC00"
 "2 c #404040"
 String1=0x00,Highway
-String2=0x02,Bundesstraﬂe
+String2=0x02,Bundesstra√üe
 String3=0x03,Autoweg
 String4=0x04,Highway
 ExtendedLabels=Y
@@ -4095,7 +4095,7 @@ Xpm="0 0 2 0"
 "1 c #F8CC00"
 "2 c #404040"
 String1=0x00,Highway
-String2=0x02,Bundesstraﬂe
+String2=0x02,Bundesstra√üe
 String3=0x03,Autoweg
 String4=0x04,Highway
 ExtendedLabels=Y
@@ -4114,7 +4114,7 @@ Xpm="0 0 2 0"
 "1 c #F8FC00"
 "2 c #404040"
 String1=0x00,secondary road
-String2=0x02,Landesstraﬂe
+String2=0x02,Landesstra√üe
 String3=0x03,Provinciale weg
 String4=0x04,secondary road
 ExtendedLabels=Y
@@ -4133,7 +4133,7 @@ Xpm="0 0 2 0"
 "1 c #F8FC00"
 "2 c #404040"
 String1=0x00,secondary road
-String2=0x02,Landesstraﬂe
+String2=0x02,Landesstra√üe
 String3=0x03,Provinciale weg
 String4=0x04,secondary road
 ExtendedLabels=Y
@@ -4152,7 +4152,7 @@ Xpm="0 0 2 0"
 "1 c #FFFFD5"
 "2 c #404040"
 String1=0x00,Country Road
-String2=0x02,Kreisstraﬂe
+String2=0x02,Kreisstra√üe
 String3=0x03,Provinciale weg
 String4=0x04,Country Road
 ExtendedLabels=Y
@@ -4171,7 +4171,7 @@ Xpm="0 0 2 0"
 "1 c #FFFFD5"
 "2 c #404040"
 String1=0x00,Country Road
-String2=0x02,Kreisstraﬂe
+String2=0x02,Kreisstra√üe
 String3=0x03,Provinciale weg
 String4=0x04,Country Road
 ExtendedLabels=Y
@@ -4190,7 +4190,7 @@ Xpm="0 0 2 0"
 "1 c #FFFFFF"
 "2 c #404040"
 String1=0x00,Residential Road
-String2=0x02,Wohngebietsstraﬂe
+String2=0x02,Wohngebietsstra√üe
 String3=0x03,Woonwijk
 String4=0x04,Residential Road
 ExtendedLabels=Y
@@ -4209,7 +4209,7 @@ Xpm="0 0 2 0"
 "1 c #FFFFFF"
 "2 c #404040"
 String1=0x00,Residential Road
-String2=0x02,Wohngebietsstraﬂe
+String2=0x02,Wohngebietsstra√üe
 String3=0x03,Woonwijk
 String4=0x04,Residential Road
 ExtendedLabels=Y
@@ -4228,7 +4228,7 @@ Xpm="0 0 2 0"
 "1 c #F6D4D4"
 "2 c #404040"
 String1=0x00,Residential Road (restricted)
-String2=0x02,Wohngebietsstraﬂe (Eingeschr‰nkt)
+String2=0x02,Wohngebietsstra√üe (Eingeschr√§nkt)
 String3=0x03,Woonwijk (afgesloten)
 String4=0x04,Residential Road (restricted)
 ExtendedLabels=Y
@@ -4247,7 +4247,7 @@ Xpm="0 0 2 0"
 "1 c #F6D4D4"
 "2 c #404040"
 String1=0x00,Residential Road (restricted)
-String2=0x02,Wohngebietsstraﬂe (Eingeschr‰nkt)
+String2=0x02,Wohngebietsstra√üe (Eingeschr√§nkt)
 String3=0x03,Woonwijk (afgesloten)
 String4=0x04,Residential Road (restricted)
 ExtendedLabels=Y
@@ -4266,7 +4266,7 @@ Xpm="0 0 2 0"
 "1 c #FFFFFF"
 "2 c #222222"
 String1=0x00,Unclassified Road
-String2=0x02,Nebenstraﬂe
+String2=0x02,Nebenstra√üe
 String3=0x03,Straat
 String4=0x04,Unclassified Road
 ExtendedLabels=Y
@@ -4285,7 +4285,7 @@ Xpm="0 0 2 0"
 "1 c #F6D4D4"
 "2 c #404040"
 String1=0x00,Unclassified Road
-String2=0x02,Nebenstraﬂe
+String2=0x02,Nebenstra√üe
 String3=0x03,Straat
 String4=0x04,Unclassified Road
 ExtendedLabels=Y
@@ -4304,7 +4304,7 @@ Xpm="0 0 2 0"
 "1 c #F6D4D4"
 "2 c #404040"
 String1=0x00,Unclassified Road (restricted)
-String2=0x02,Nebenstraﬂe (Eingeschr‰nkt)
+String2=0x02,Nebenstra√üe (Eingeschr√§nkt)
 String3=0x03,Straat (afgesloten)
 String4=0x04,Unclassified Road (restricted)
 ExtendedLabels=Y
@@ -4323,7 +4323,7 @@ Xpm="0 0 2 0"
 "1 c #F6D4D4"
 "2 c #404040"
 String1=0x00,Unclassified Road (restricted)
-String2=0x02,Nebenstraﬂe (Eingeschr‰nkt)
+String2=0x02,Nebenstra√üe (Eingeschr√§nkt)
 String3=0x03,Straat (afgesloten)
 String4=0x04,Unclassified Road (restricted)
 ExtendedLabels=Y
@@ -4342,7 +4342,7 @@ Xpm="0 0 2 0"
 "1 c #FEFEFE"
 "2 c #404040"
 String1=0x00,Service Road
-String2=0x02,Erschlieﬂungsstraﬂe
+String2=0x02,Erschlie√üungsstra√üe
 String3=0x03,Ventweg
 String4=0x04,Service Road
 ExtendedLabels=Y
@@ -4361,7 +4361,7 @@ Xpm="0 0 2 0"
 "1 c #F6D4D4"
 "2 c #404040"
 String1=0x00,Service Road (restricted)
-String2=0x02,Erschlieﬂungsstraﬂe (Eingeschr‰nkt)
+String2=0x02,Erschlie√üungsstra√üe (Eingeschr√§nkt)
 String3=0x03,Ventweg (afgesloten)
 String4=0x04,Service Road (restricted)
 ExtendedLabels=Y
@@ -4380,7 +4380,7 @@ Xpm="0 0 2 0"
 "1 c #F6D4D4"
 "2 c #404040"
 String1=0x00,Service Road (restricted)
-String2=0x02,Erschlieﬂungsstraﬂe (Eingeschr‰nkt)
+String2=0x02,Erschlie√üungsstra√üe (Eingeschr√§nkt)
 String3=0x03,Ventweg (afgesloten)
 String4=0x04,Service Road (restricted)
 ExtendedLabels=Y
@@ -4399,7 +4399,7 @@ Xpm="0 0 2 0"
 "1 c #F6D4D4"
 "2 c #404040"
 String1=0x00,Service Road (restricted)
-String2=0x02,Erschlieﬂungsstraﬂe (Eingeschr‰nkt)
+String2=0x02,Erschlie√üungsstra√üe (Eingeschr√§nkt)
 String3=0x03,Ventweg (afgesloten)
 String4=0x04,Service Road (restricted)
 ExtendedLabels=Y
@@ -4700,7 +4700,7 @@ Xpm="32 2 2  1"
 "################################"
 ;12345678901234567890123456789012
 String1=0x00,Ferry
-String2=0x02,F‰hre
+String2=0x02,F√§hre
 String3=0x03,Veerdienst
 String4=0x04,Ferry
 ExtendedLabels=Y
@@ -4739,7 +4739,7 @@ LineWidth=2
 Xpm="0 0 1 0"
 "1 c #702020"
 String1=0x00,Foot path
-String2=0x02,Fuﬂweg
+String2=0x02,Fu√üweg
 String3=0x03,Voetpad
 String4=0x04,Foot path
 ExtendedLabels=Y
@@ -4777,7 +4777,7 @@ Xpm="0 0 2 0"
 "1 c #F8CC00"
 "2 c #404040"
 String1=0x00,Highway (like freeway)
-String2=0x02,Bundesstraﬂe (wie Autobahn)
+String2=0x02,Bundesstra√üe (wie Autobahn)
 String3=0x03,Autosnelweg
 String4=0x04,Highway (like freeway)
 ExtendedLabels=Y
@@ -4796,7 +4796,7 @@ Xpm="0 0 2 0"
 "1 c #F8CC00"
 "2 c #404040"
 String1=0x00,Highway
-String2=0x02,Bundesstraﬂe
+String2=0x02,Bundesstra√üe
 String3=0x03,Autosnelweg
 String4=0x04,Highway
 ExtendedLabels=Y
@@ -4815,7 +4815,7 @@ Xpm="0 0 2 0"
 "1 c #F8FC00"
 "2 c #404040"
 String1=0x00,Secondary Road
-String2=0x02,Landesstraﬂe
+String2=0x02,Landesstra√üe
 String3=0x03,Provinciale weg
 String4=0x04,Secondary Road
 ExtendedLabels=Y
@@ -4834,7 +4834,7 @@ Xpm="0 0 2 0"
 "1 c #FFFFFF"
 "2 c #404040"
 String1=0x00,side street
-String2=0x02,Wohngebietsstraﬂe
+String2=0x02,Wohngebietsstra√üe
 String3=0x03,Straat
 String4=0x04,side street
 ExtendedLabels=Y
@@ -4853,7 +4853,7 @@ Xpm="0 0 2 0"
 "1 c #FFFFFF"
 "2 c #404040"
 String1=0x00,Unclassified Road
-String2=0x02,Nebenstraﬂe
+String2=0x02,Nebenstra√üe
 String3=0x03,Straat
 String4=0x04,Unclassified Road
 ExtendedLabels=Y
@@ -4872,7 +4872,7 @@ Xpm="0 0 2 0"
 "1 c #FFFFFF"
 "2 c #404040"
 String1=0x00,Service Road
-String2=0x02,Erschlieﬂungsstraﬂe
+String2=0x02,Erschlie√üungsstra√üe
 String3=0x03,Ventweg
 String4=0x04,Service Road
 ExtendedLabels=Y
@@ -4891,7 +4891,7 @@ Xpm="0 0 2 0"
 "1 c #BABABA"
 "2 c #FFFFFF"
 String1=0x00,Living Street
-String2=0x02,Spielstraﬂe
+String2=0x02,Spielstra√üe
 String3=0x03,Woonerf
 String4=0x04,Living Street
 ExtendedLabels=Y
@@ -4910,7 +4910,7 @@ Xpm="0 0 2 0"
 "1 c #FFFFFF"
 "2 c #BABABA"
 String1=0x00,Pedestrianised Street
-String2=0x02,Fuﬂg‰ngerstraﬂe
+String2=0x02,Fu√üg√§ngerstra√üe
 String3=0x03,Voetgangersgebied
 String4=0x04,Pedestrianised Street
 ExtendedLabels=Y
@@ -4927,7 +4927,7 @@ LineWidth=2
 Xpm="0 0 1 0"
 "1 c #000078"
 String1=0x00,Cycle-/Footway
-String2=0x02,Rad-/Fuﬂweg
+String2=0x02,Rad-/Fu√üweg
 String3=0x03,Fietspad/Voetpad nauw
 String4=0x04,Cycle-/Footway
 ExtendedLabels=Y
@@ -5010,7 +5010,7 @@ LineWidth=2
 Xpm="0 0 1 0"
 "1 c #00CA00"
 String1=0x00,Novice Piste
-String2=0x02,Skipiste f¸r Anf‰nger
+String2=0x02,Skipiste f√ºr Anf√§nger
 String3=0x03,Skipiste
 String4=0x04,Novice Piste
 ExtendedLabels=Y
@@ -5061,7 +5061,7 @@ LineWidth=2
 Xpm="0 0 1 0"
 "1 c #202020"
 String1=0x00,Advanced Piste
-String2=0x02,Skipiste f¸r Fortgeschrittene
+String2=0x02,Skipiste f√ºr Fortgeschrittene
 String3=0x03,Skipiste
 String4=0x04,Advanced Piste
 ExtendedLabels=Y
@@ -5078,7 +5078,7 @@ LineWidth=2
 Xpm="0 0 1 0"
 "1 c #FF9500"
 String1=0x00,Expert Piste
-String2=0x02,Skipiste f¸r Experten
+String2=0x02,Skipiste f√ºr Experten
 String3=0x03,Skipiste
 String4=0x04,Expert Piste
 ExtendedLabels=Y
@@ -5548,7 +5548,7 @@ Xpm="32 2 2  1"
 "                                "
 ;12345678901234567890123456789012
 String1=0x00,Drainage Ditch/Drain (Tunnel)
-String2=0x02,Entw‰sserungsgraben (Tunnel)
+String2=0x02,Entw√§sserungsgraben (Tunnel)
 String3=0x03,Greppel (Tunnel)
 String4=0x04,Drainage Ditch/Drain (Tunnel)
 ExtendedLabels=Y
@@ -5607,7 +5607,7 @@ Xpm="0 0 2 0"
 "1 c #F8CC00"
 "2 c #404040"
 String1=0x00,Highway
-String2=0x02,Bundesstraﬂe (wie Autobahn)
+String2=0x02,Bundesstra√üe (wie Autobahn)
 String3=0x03,Provinciale weg
 String4=0x04,Highway
 ExtendedLabels=Y
@@ -5626,7 +5626,7 @@ Xpm="0 0 2 0"
 "1 c #F8CC00"
 "2 c #404040"
 String1=0x00,Highway
-String2=0x02,Bundesstraﬂe
+String2=0x02,Bundesstra√üe
 String3=0x03,Autoweg
 String4=0x04,Highway
 ExtendedLabels=Y
@@ -5646,7 +5646,7 @@ Xpm="32 2 2  1"
 "  !!      !!      !!      !!    "
 ;12345678901234567890123456789012
 String1=0x00,Decommisioned Railway
-String2=0x02,Schienen (R¸ckbau)
+String2=0x02,Schienen (R√ºckbau)
 String3=0x03,Voormalige spoorbaan
 String4=0x04,Decommisioned Railway
 ExtendedLabels=Y
@@ -5683,7 +5683,7 @@ LineWidth=1
 Xpm="0 0 1 0"
 "1 c #6064F8"
 String1=0x00,Drainage Ditch/Drain
-String2=0x02,Entw‰sserungsgraben
+String2=0x02,Entw√§sserungsgraben
 String3=0x03,Sloot
 String4=0x04,Drainage Ditch/Drain
 ExtendedLabels=Y
@@ -5877,7 +5877,7 @@ Xpm="32 2 2  1"
 "!!!!    !!!!    !!!!    !!!!    "
 ;12345678901234567890123456789012
 String1=0x00,Tramway (tunnel)
-String2=0x02,Straﬂenbahn (Tunnel)
+String2=0x02,Stra√üenbahn (Tunnel)
 String3=0x03,Tramtunnel
 String4=0x04,Tramway (tunnel)
 ExtendedLabels=Y
@@ -6148,7 +6148,7 @@ Type=0x002
 SubType=0x00
 ;GRMN_TYPE: Political Entities/CITY_5M, LARGE_CITY/Large city center, typically 1M+ inhabitants/Non NT
 String1=0x00,Large City
-String2=0x02,Groﬂstadt
+String2=0x02,Gro√üstadt
 String3=0x03,Grote stad
 String4=0x04,Large City
 ExtendedLabels=Y
@@ -6455,7 +6455,7 @@ Type=0x029
 SubType=0x01
 ;GRMN_TYPE: //
 String1=0x00,Rest Area
-String2=0x02,Rastplatz / -st‰tte
+String2=0x02,Rastplatz / -st√§tte
 String3=0x03,Verzorgingsplaats
 String4=0x04,Rest Area
 ExtendedLabels=Y
@@ -6844,7 +6844,7 @@ Type=0x02a
 SubType=0x0b
 ;GRMN_TYPE: Business - Food and Drink/RESTAURANT_SEAFOOD/Seafood restaurant/Non NT
 String1=0x00,Restaurant: Seafood
-String2=0x02,Restaurant: Meeresfr¸chte
+String2=0x02,Restaurant: Meeresfr√ºchte
 String3=0x03,Restaurant: Visrestaurant
 String4=0x04,Restaurant: Seafood
 ExtendedLabels=Y
@@ -6976,7 +6976,7 @@ Type=0x02a
 SubType=0x0f
 ;GRMN_TYPE: Business - Food and Drink/RESTAURANT_FRENCH/French cuisine/Non NT
 String1=0x00,Restaurant: French
-String2=0x02,Restaurant: Franzˆsisch
+String2=0x02,Restaurant: Franz√∂sisch
 String3=0x03,Restaurant: Frans
 String4=0x04,Restaurant: French
 ExtendedLabels=Y
@@ -7075,7 +7075,7 @@ Type=0x02a
 SubType=0x12
 ;GRMN_TYPE: //
 String1=0x00,Restaurant: Speciality
-String2=0x02,Restaurant: Spezialit‰ten
+String2=0x02,Restaurant: Spezialit√§ten
 String3=0x03,Restaurant: Specialiteiten
 String4=0x04,Restaurant: Speciality
 ExtendedLabels=Y
@@ -7215,7 +7215,7 @@ Type=0x02b
 SubType=0x06
 ;GRMN_TYPE: //
 String1=0x00,Shelter
-String2=0x02,Schutzh¸tte
+String2=0x02,Schutzh√ºtte
 String3=0x03,Schuilhut
 String4=0x04,Shelter
 ExtendedLabels=Y
@@ -7754,7 +7754,7 @@ Type=0x02e
 SubType=0x01
 ;GRMN_TYPE: Business - Shopping/DEPARTMENT_STORE/Department store/Non NT
 String1=0x00,Shop: Department Store
-String2=0x02,Gesch‰ft: Kaufhaus
+String2=0x02,Gesch√§ft: Kaufhaus
 String3=0x03,Winkel: Warenhuis
 String4=0x04,Shop: Department Store
 ExtendedLabels=Y
@@ -7775,7 +7775,7 @@ Type=0x02e
 SubType=0x02
 ;GRMN_TYPE: Business - Shopping/GROCERY_STORE/Grocery store/Non NT
 String1=0x00,Shop: Grocery
-String2=0x02,Gesch‰ft: Lebensmittel
+String2=0x02,Gesch√§ft: Lebensmittel
 String3=0x03,Winkel: supermarkt
 String4=0x04,Shop: Grocery
 ExtendedLabels=Y
@@ -7796,7 +7796,7 @@ Type=0x02e
 SubType=0x03
 ;GRMN_TYPE: Business - Shopping/GENERAL_STORE/General store/Non NT
 String1=0x00,Grocery Shop
-String2=0x02,Gesch‰ft: Gemischtwaren
+String2=0x02,Gesch√§ft: Gemischtwaren
 String3=0x03,Supermarkt
 String4=0x04,Grocery Shop
 ExtendedLabels=Y
@@ -7817,7 +7817,7 @@ Type=0x02e
 SubType=0x04
 ;GRMN_TYPE: Business - Shopping/SHOPPING_CENTER/Shopping center or mall/Non NT
 String1=0x00,Shop: Shopping Centre
-String2=0x02,Gesch‰ft: Einkaufszentrum
+String2=0x02,Gesch√§ft: Einkaufszentrum
 String3=0x03,Winkel: Winkelcentrum
 String4=0x04,Shop: Shopping Centre
 ExtendedLabels=Y
@@ -7838,7 +7838,7 @@ Type=0x02e
 SubType=0x05
 ;GRMN_TYPE: Business - Shopping/PHARMACY/Pharmacy/Non NT
 String1=0x00,Shop: Pharmacy
-String2=0x02,Gesch‰ft: Apotheke
+String2=0x02,Gesch√§ft: Apotheke
 String3=0x03,Winkel: Drogist, Apotheek
 String4=0x04,Shop: Pharmacy
 ExtendedLabels=Y
@@ -7859,7 +7859,7 @@ Type=0x02e
 SubType=0x06
 ;GRMN_TYPE: Business - Shopping/CONVENIENCE_STORE/Convenience store/Non NT
 String1=0x00,Shop: Convinience
-String2=0x02,Gesch‰ft: Bedarfsartikel
+String2=0x02,Gesch√§ft: Bedarfsartikel
 String3=0x03,Winkel: Supermarkt
 String4=0x04,Shop: Convinience
 ExtendedLabels=Y
@@ -7880,7 +7880,7 @@ Type=0x02e
 SubType=0x07
 ;GRMN_TYPE: Business - Shopping/CLOTHING_RETAIL/Clothing store/Non NT
 String1=0x00,Shop: Clothing
-String2=0x02,Gesch‰ft: Bekleidung
+String2=0x02,Gesch√§ft: Bekleidung
 String3=0x03,Winkel: Kleding
 String4=0x04,Shop: Clothing
 ExtendedLabels=Y
@@ -7901,7 +7901,7 @@ Type=0x02e
 SubType=0x08
 ;GRMN_TYPE: Business - Shopping/HOME_AND_GARDEN_STORE/House and garden store/Non NT
 String1=0x00,Shop: Garden Centre
-String2=0x02,Gesch‰ft: Haus und Garten
+String2=0x02,Gesch√§ft: Haus und Garten
 String3=0x03,Winkel: Tuincentrum
 String4=0x04,Shop: Garden Centre
 ExtendedLabels=Y
@@ -7922,7 +7922,7 @@ Type=0x02e
 SubType=0x09
 ;GRMN_TYPE: Business - Shopping/HOME_FURNISHINGS_STORE/Furniture store/Non NT
 String1=0x00,Shop: Home Furnishing
-String2=0x02,Gesch‰ft: Wohnungseinrichtung
+String2=0x02,Gesch√§ft: Wohnungseinrichtung
 String3=0x03,Winkel: Woninginrichting
 String4=0x04,Shop: Home Furnishing
 ExtendedLabels=Y
@@ -7943,7 +7943,7 @@ Type=0x02e
 SubType=0x0a
 ;GRMN_TYPE: Business - Shopping/SPECIALTY_RETAIL/Specialty store/Non NT
 String1=0x00,Shop: Specialist
-String2=0x02,Gesch‰ft: Einzelhandel
+String2=0x02,Gesch√§ft: Einzelhandel
 String3=0x03,Winkel: Speciaalzaak
 String4=0x04,Shop: Specialist
 ExtendedLabels=Y
@@ -7964,7 +7964,7 @@ Type=0x02e
 SubType=0x0b
 ;GRMN_TYPE: Business - Shopping/SOFTWARE_RETAIL/Computer software store/Non NT
 String1=0x00,Shop: Computer/Software/IT
-String2=0x02,Gesch‰ft: Computer/Software
+String2=0x02,Gesch√§ft: Computer/Software
 String3=0x03,Winkel: Computer/Software/IT
 String4=0x04,Shop: Computer/Software/IT
 ExtendedLabels=Y
@@ -7985,7 +7985,7 @@ Type=0x02e
 SubType=0x0c
 ;GRMN_TYPE: //
 String1=0x00,Shop: Butcher
-String2=0x02,Gesch‰ft: Metzger
+String2=0x02,Gesch√§ft: Metzger
 String3=0x03,Winkel: Slagerij
 String4=0x04,Shop: Butcher
 ExtendedLabels=Y
@@ -8006,7 +8006,7 @@ Type=0x02e
 SubType=0x0d
 ;GRMN_TYPE: //
 String1=0x00,Shop: Other
-String2=0x02,Gesch‰ft: Anderes
+String2=0x02,Gesch√§ft: Anderes
 String3=0x03,Winkel: Overig
 String4=0x04,Shop: Other
 ExtendedLabels=Y
@@ -8147,7 +8147,7 @@ Type=0x02f
 SubType=0x07
 ;GRMN_TYPE: Business - Services/DEALER/Dealer of manufactured goods/Non NT
 String1=0x00,Shop: Car Sales
-String2=0x02,Gesch‰ft: Auto
+String2=0x02,Gesch√§ft: Auto
 String3=0x03,Winkel: Autodealer
 String4=0x04,Shop: Car Sales
 ExtendedLabels=Y
@@ -8216,7 +8216,7 @@ Type=0x02f
 SubType=0x0b
 ;GRMN_TYPE: Business - Services/PARKING/Parking/Non NT
 String1=0x00,Parking (restricted)
-String2=0x02,Parken (eingeschr‰nkt)
+String2=0x02,Parken (eingeschr√§nkt)
 String3=0x03,Parkeerplaats (afgesloten)
 String4=0x04,Parking (restricted)
 ExtendedLabels=Y
@@ -8624,7 +8624,7 @@ Type=0x030
 SubType=0x07
 ;GRMN_TYPE: Business - Emergency and Government/GOV_OFFICE/Government Office/Non NT
 String1=0x00,Government Building/Office
-String2=0x02,Amt, Behˆrde
+String2=0x02,Amt, Beh√∂rde
 String3=0x03,Overheidsgebouw/kantoor
 String4=0x04,Government Building/Office
 ExtendedLabels=Y
@@ -8666,7 +8666,7 @@ Type=0x048
 SubType=0x03
 ;GRMN_TYPE: //
 String1=0x00,Alpine Hut (operated/manned)
-String2=0x02,Bergh¸tte(bewirtschaftet)
+String2=0x02,Bergh√ºtte(bewirtschaftet)
 String3=0x03,Berghut (horecabedrijf)
 String4=0x04,Alpine Hut (operated/manned)
 ExtendedLabels=Y
@@ -8697,7 +8697,7 @@ Type=0x048
 SubType=0x04
 ;GRMN_TYPE: //
 String1=0x00,Alpine Hut (self-catering)
-String2=0x02,Bergh¸tte(Selbstversorger)
+String2=0x02,Bergh√ºtte(Selbstversorger)
 String3=0x03,Berghut (zelfverzorging)
 String4=0x04,Alpine Hut (self-catering)
 ExtendedLabels=Y
@@ -8980,7 +8980,7 @@ Type=0x064
 SubType=0x05
 ;GRMN_TYPE: Geographical Named Points of Interest/CIVIL_BUILDING/Civil building/Non NT, NT
 String1=0x00,Grave/memorial
-String2=0x02,Ruhe-/Gedenkst‰tte
+String2=0x02,Ruhe-/Gedenkst√§tte
 String3=0x03,Graf/Gedenkplaats
 String4=0x04,Grave/memorial
 ExtendedLabels=Y
@@ -9001,7 +9001,7 @@ Type=0x064
 SubType=0x0b
 ;GRMN_TYPE: Geographical Named Points of Interest/MILITARY/Military point of interest/Non NT, NT
 String1=0x00,Military
-String2=0x02,Milit‰r
+String2=0x02,Milit√§r
 String3=0x03,Militair
 String4=0x04,Military
 ExtendedLabels=Y
@@ -9385,7 +9385,7 @@ Type=0x066
 SubType=0x01
 ;GRMN_TYPE: Geographical Named Points of Interest - Land Related/ARCH/Arch/Non NT, NT
 String1=0x00,Cave
-String2=0x02,Hˆhle
+String2=0x02,H√∂hle
 String3=0x03,Grot
 String4=0x04,Cave
 ExtendedLabels=Y
